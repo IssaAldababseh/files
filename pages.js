@@ -1,5 +1,4 @@
- 
-//Chapters questions numbers
+ //Chapters questions numbers
   if (location.hash == '#Chapter1') {
               document.getElementsByClassName("question1")[0].innerHTML=document.getElementsByClassName("question1c")[0].innerHTML; 
           document.getElementById('chapter1n').outerHTML=document.getElementsByClassName("chapternc")[0].innerHTML;

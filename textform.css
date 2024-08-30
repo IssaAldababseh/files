@@ -748,6 +748,7 @@
 .ql-snow .ql-picker.ql-header .ql-picker-item::before {
   content: 'عادي';
    font-family: 'Tajawal';
+  padding-right: 21px;
 }
 .ql-snow .ql-picker.ql-header .ql-picker-label[data-value="1"]::before,
 .ql-snow .ql-picker.ql-header .ql-picker-item[data-value="1"]::before {

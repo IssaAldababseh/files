@@ -1,4 +1,4 @@
-issatemp_v1({
+spark_v1({
   "version" : "1.0",
   "encoding" : "UTF-8",
   "entry" : {
